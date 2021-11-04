@@ -1,0 +1,22 @@
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+div {
+  line-height: 2em;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 1.10em;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 1.12em;
+  margin-left: 3%;
+  font-style: italic;
+  width: 70%;
+}
