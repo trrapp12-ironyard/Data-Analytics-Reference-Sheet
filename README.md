@@ -2,7 +2,7 @@
  
  <br>
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141689918-c4e0453f-65b8-439e-97ab-5b76ca4ac2a6.png)](https://trrapp12.github.io/Data-Analytics-Reference-Sheet/)  
+[![View Project](https://user-images.githubusercontent.com/11747875/141689918-c4e0453f-65b8-439e-97ab-5b76ca4ac2a6.png)](https://trrapp12-ironyard.github.io/Data-Analytics-Reference-Sheet/)  
 
 
 https://user-images.githubusercontent.com/11747875/149463898-973b06a6-c949-4b51-8e9e-0b46f5aa7899.mp4
@@ -28,7 +28,7 @@ The genesis of this project is actually kind of silly. I had been going along bo
 ### Project published at: 
 
 
-[Data-Analytics-Reference-Sheet](https://trrapp12.github.io/Data-Analytics-Reference-Sheet/)
+[Data-Analytics-Reference-Sheet](https://trrapp12-ironyard.github.io/Data-Analytics-Reference-Sheet/)
 
 <br>
 <br>
